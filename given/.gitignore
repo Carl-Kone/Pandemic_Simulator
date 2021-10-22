@@ -1,0 +1,11 @@
+# Binaries
+bin
+obj
+.DS_Store
+
+# Rider
+.idea
+*.userprefs
+
+# Outputs
+*.gif
